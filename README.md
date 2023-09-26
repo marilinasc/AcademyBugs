@@ -29,5 +29,5 @@ Academy bugs es una tienda virtual diseñada para practicar diferentes tipos de 
 * <a href="https://marilina-scandalo.atlassian.net/browse/AB-53"> US010-Crear cuenta e Iniciar de Sesión en AB </a>
 
 ### 📊 Reporte: 
-<a href="https://github.com/marilinasc/AcademyBugs/blob/main/AgileTest%20-%20Jira.pdf"> Test Traceability Report </a>
+<a href="https://github.com/marilinasc/AcademyBugs/blob/main/AgileTest%20-%20Jira%20-%20AB.pdf"> Test Traceability Report </a>
 
