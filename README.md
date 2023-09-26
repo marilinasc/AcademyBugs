@@ -30,3 +30,4 @@ Academy bugs es una tienda virtual diseñada para practicar diferentes tipos de 
 
 ### 📊 Reporte: 
 <a href="https://github.com/marilinasc/AcademyBugs/blob/main/AgileTest%20-%20Jira.pdf"> Test Traceability Report </a>
+
